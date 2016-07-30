@@ -1,15 +1,7 @@
  
 
-
-
-
-
-
-
-
 #Script to display Witty Quotes on Terminal Screen when you open it 
-
-
+#You can edit script to show Life Goals / Inspirational quotes / TO DO things etc. 
  
 
  
